@@ -1,4 +1,5 @@
 # Backpropogation-from-scratch
+
 Back-propagation from scratch in python
 
 -----backpropagation algorithm and tested it in the following 2 class problem called the Star problem.
